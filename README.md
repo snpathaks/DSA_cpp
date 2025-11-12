@@ -5,3 +5,4 @@
 4.Queue.<br>
 5.Heap.<br>
 6. Tree. <br>
+7. Graph
