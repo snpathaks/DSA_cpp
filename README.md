@@ -7,3 +7,4 @@
 6. Tree. <br>
 7. Graph.<br>
 8. Hashing. <br>
+9.Trie
